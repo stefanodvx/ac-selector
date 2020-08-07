@@ -1,7 +1,4 @@
-# eac-forcer
-Simple tool to force Fortnite launching using EasyAntiCheat instead of BattleEye
-
-How to use:
+# How to use
 1. Launch the .exe to make it download config.txt
 2. Edit Fortnite and Epic Games path in "config.txt" to your path
 3. Edit your date format in "config.txt" to your format
