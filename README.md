@@ -8,4 +8,4 @@ DD-MM-YYYY; MM-DD-YYYY; YYYY-MM-DD
 
 If you using STEAM METHOD set UsingSteam variable to True in "config.txt", if not leave to False (cheating stuff, just ignore if you dont know what that is)
 
-# GitHub updates are discontinued, program will automatically update on launch. Searching someone that can host me a site to upload files :/
+# GitHub updates are discontinued, program will automatically update on launch.
