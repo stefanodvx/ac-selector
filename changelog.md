@@ -1,4 +1,4 @@
-# Update V3.0
+# Update V3.1
 
 - Time format is now auto-detected by the tool
 - Remove DateFormat variable from config.txt or it will get reset
