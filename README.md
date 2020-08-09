@@ -4,4 +4,4 @@
 
 If you using STEAM METHOD set UsingSteam variable to True in "config.txt", if not leave to False (cheating stuff, just ignore if you dont know what that is)
 
-# GitHub updates got discontinued at V3.2, program will automatically update on launch.
+# GitHub updates got discontinued at V3.3, program will automatically update on launch.
