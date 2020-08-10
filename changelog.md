@@ -1,3 +1,8 @@
+# Update 3.4
+- config.txt is no needed anymore (you can delete it)
+- New config built in-app
+- Minor changes to texts and colors
+
 # Update 3.3
 - Finally BitsAdmin is not part of the program anymore (tool for auto-updates)
 - New auto-update system, faster and working for everyone now (I hope)
