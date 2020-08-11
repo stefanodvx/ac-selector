@@ -1,3 +1,6 @@
+# Update 3.4.1
+- Fixed some bugs that was causing crash of the program
+
 # Update 3.4
 - config.txt is no needed anymore (you can delete it)
 - New config built in-app
