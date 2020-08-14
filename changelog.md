@@ -1,3 +1,6 @@
+# Update 3.6.1
+- Bug fixes
+
 # Update 3.6
 - New colors
 - Languages now here, here's current:
