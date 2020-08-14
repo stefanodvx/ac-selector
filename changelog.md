@@ -1,3 +1,11 @@
+# Update 3.6
+- New colors
+- Languages now here, here's current:
+- English (en)
+- Italiano (it)
+- Español (es) [by El Profesor#5776]
+- Deutsche (de) [by Kriimaar#9444]
+
 # Update 3.5
 - Fortnite and Epic Games path are now automatically detected
 - Fixed some bugs with date changes
