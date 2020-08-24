@@ -1,3 +1,7 @@
+# Update 3.7
+- Added support for a lot of date format
+- If still doesn't change date, dm me on Discord
+
 # Update 3.6.1
 - Bug fixes
 
