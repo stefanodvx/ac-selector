@@ -1,3 +1,6 @@
+# Update 3.7.1
+- All time formats are now supported
+
 # Update 3.7
 - Added support for a lot of date format
 - If still doesn't change date, dm me on Discord
