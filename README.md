@@ -1,1 +1,1 @@
-# Download on my Discord server: https://discord.gg/MXwQV4k
+# Download on my Discord server: https://discord.gg/q77puzh
